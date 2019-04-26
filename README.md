@@ -13,4 +13,4 @@ Your robust webinar platform. Rated in the top five of the world’s best softwa
 
 ---
 
-## Lucky webinars! 🤘
+🤘 **Lucky webinars** 🤘
