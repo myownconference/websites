@@ -26,6 +26,6 @@ Your robust webinar platform. Rated in the top five of the world’s best softwa
 
 **Documentation**
 
-– [#api](MyOwnConference API [RUS])
+– [MyOwnConference API RUS](https://github.com/myownconference/websites/wiki/API)
 
 🤘 **Lucky webinars** 🤘
