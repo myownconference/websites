@@ -6,8 +6,8 @@ Your robust webinar platform. Rated in the top five of the world’s best softwa
 
 **Our Websites:**
 
-- English version ➟ [https://myownconference.com](https://myownconference.com)
-- Polish version ➟ [https://myownconference.com/pl/pl](https://myownconference.com/pl/)
+- English version ➟ [https://myownconference.com/](https://myownconference.com/)
+- Polish version ➟ [https://myownconference.com/pl/](https://myownconference.com/pl/)
 - Russian version ➟ [https://myownconference.com/ru/](https://myownconference.com/ru/)
 - Ukrainian version ➟ [https://myownconference.com/uk/](https://myownconference.com/uuk/)
 
