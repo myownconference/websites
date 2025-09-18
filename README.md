@@ -4,28 +4,27 @@ Your robust webinar platform. Rated in the top five of the world’s best softwa
 
 ---
 
-**Our Websites:**
+**Our websites:**
 
-- English version ➟ [https://myownconference.com/](https://myownconference.com/)
-- Polish version ➟ [https://myownconference.com/pl/](https://myownconference.com/pl/)
-- Russian version ➟ [https://myownconference.com/ru/](https://myownconference.com/ru/)
-- Ukrainian version ➟ [https://myownconference.com/uk/](https://myownconference.com/uuk/)
-
----
-
-**Service Status:**
-
-- Website ➟ [https://updown.io/ke5g](https://updown.io/ke5g)
-- Our Blogs ➟ [https://updown.io/5grf](https://updown.io/5grf)
-- Control Panel ➟ [https://updown.io/grqw](https://updown.io/grqw)
-- Webinar Rooms ➟ [https://updown.io/zgap](https://updown.io/zgap)
-- CDN Network ➟ [https://updown.io/sjn7](https://updown.io/sjn7)
-- HLS Network ➟ [https://updown.io/eh91](https://updown.io/eh91)
+- English version ➟ [https://myownconference.com](https://myownconference.com)
+- Versión en español ➟ [https://myownconference.com/es/](https://myownconference.com/es/)
+- Deutsche Version ➟ [https://myownconference.com/de/](https://myownconference.com/de/)
+- Version française ➟ [https://myownconference.com/fr/](https://myownconference.com/fr/)
+- Wersja polska ➟ [https://myownconference.com/pl/](https://myownconference.com/pl/)
+- Русская версия ➟ [https://myownconference.com/ru/](https://myownconference.com/ru/)
+- Українська версія ➟ [https://myownconference.com/uk/](https://myownconference.com/uk/)
 
 ---
 
-**Documentation**
+**Service status:** [https://status.myownconference.com/en/](https://status.myownconference.com/en/)
 
-– [MyOwnConference API RUS](https://github.com/myownconference/websites/wiki/API)
+**Helpdesk:**
+
+- English version ➟ [https://support.myownconference.com/en/](https://support.myownconference.com/en/)
+- Wersja polska ➟ [https://support.myownconference.com/pl/](https://support.myownconference.com/pl/)
+- Русская версия ➟ [https://support.myownconference.com/ru/](https://support.myownconference.com/ru/)
+- Українська версія ➟ [https://support.myownconference.com/uk/](https://support.myownconference.com/uk/)
+
+---
 
 🤘 **Lucky webinars** 🤘
